@@ -4,7 +4,7 @@ Gonna build a Voron. Build a Trident.
 
 ![Ender3dent Buildguide GIF](/Gallery/ender3dent-buildguide.gif "Ender3dent Buildguide GIF")
 
-![TwoEnder3dent Render PNG](/Gallery/TwoEnder3.png "TwoEnder3dent Render PNG")
+![TwoEnder3dent Render PNG](/Gallery/TwoEnder3s.png "TwoEnder3dent Render PNG")
 
 <details>
   <summary>Old Description</summary>
