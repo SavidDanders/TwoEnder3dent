@@ -192,8 +192,10 @@ build it and DM me on discord °~°
 ### Ender6dent
 ![VT.1233 Coursin](/Gallery/vt.1233_coursin.jpg "VT.1233 Coursin")
 
-  </details>
 
 ### Other relevant images
 Ender3dent with mgn12 aka Enderwire to Ender3dent conversion showing the need for thicker foam (weather stripes in this case)
 ![Enderwire Conversion](/Gallery/EnderwireToEnder3dent_mgn12_.jpg "Enderwire Conversion")
+
+
+  </details>
