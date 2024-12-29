@@ -1,11 +1,50 @@
 # Ender3dent
 Gonna build a Voron. Build a Trident.
 
-
 ![Ender3dent Buildguide GIF](/Gallery/ender3dent-buildguide.gif "Ender3dent Buildguide GIF")
+
+# What if you took 2 Ender 3's and made something else?
+
+I wanted to take 2 old Ender 3 printers and make a trident (this is based off of the OG Ender 3 not the pro v2, v3, neo s1 plus or whatever Creality is calling it these days). This is basically a Voron trident built with 2040 v-slot extrusions and a bunch of compromises. Proceed at your own risk.
 
 ![2plus2ender3dent JPG](/Gallery/2_plus_2_ender3dent.jpg "2plus2ender3dent JPG")
 ![TwoEnder3dent Render JPG](/Gallery/2_ender3dent.jpg "TwoEnder3dent Render JPG")
+
+## Goals
+
+* Re-use as many parts from 2 Ender 3's to build a Voron Trident
+* Rigid all metal frame (no printed frame extensions like the Ender 3 NG)
+* Easily enclosable (no top hats or weird panel shapes)
+* Use the trident style gantry and Z axis
+
+## Why should you build this?
+
+You probably shouldn't. A new trident frame is cheap, Ender frames are too small and have poor build quality. If you ONLY re-use ender extrusions the frame would be incredibly tiny (see below). This would significantly reduce the build volume compared to a stock ender. To compromise I’ve opted to re-use some of the ender extrusions, but additional extrusions are required for this build. Again, for the amount of time and $$ you could probably just build a spec trident. But if you're stubborn like me and want to re-use parts from your old Ender 3's this is the perfect project for you! *(maybe)
+
+![too_small_try_again JPG](/Gallery/too_small_try_again.jpg "First design is too small JPG")
+
+## ⚠️What do you need to build this? ⚠️
+
+Oh, wait you're still reading? Ok guess you actually want to build this abomination.
+
+You'll need:
+* 2x Ender 3 printers (this is based off of the OG Ender 3 not the pro v2, 3, neopro or whatever creality is calling it these days)
+* 4x 530mm 2040
+* 2x 400mm 2040
+* 6x MGN12H Linear Rails (Sizes TBD)
+* ⚠️Cut extrusions to length
+* ⚠️Drill blind joints
+* ⚠️Tap holes
+
+## Inspiration
+
+In my search for an ender 3 corexy conversion, I've seen many different builds and concepts. The ones below have inspired me to make this.
+
+* [u/gnit0](https://www.reddit.com/r/ender3/comments/xr9097/ideas_to_combine_two_ender_3v2s/)
+* [PandER-V](https://www.printables.com/model/744568-pander-v-beta)
+* [Ender3 NG V1.2](https://www.printables.com/model/922401-ender-3-ng-v12-corexy-conversion)
+
+⚠️ THIS IS A WORK IN PROGRESS, RESULTS NOT GURANTEED, BUILD AT YOUR OWN RISK ⚠️
 
 <details>
   <summary>Old Description</summary>
