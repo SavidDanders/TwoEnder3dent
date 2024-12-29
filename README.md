@@ -1,19 +1,18 @@
 # Ender3dent
 Gonna build a Voron. Build a Trident.
 
-![Ender3dent Buildguide GIF](/Gallery/ender3dent-buildguide.gif "Ender3dent Buildguide GIF")
+![TwoEnder3dent Render JPG](/Gallery/2_ender3dent.jpg "TwoEnder3dent Render JPG")
 
 # What if you took 2 Ender 3's and made something else?
 
-I wanted to take 2 old Ender 3 printers and make a trident (this is based off of the OG Ender 3 not the pro v2, v3, neo s1 plus or whatever Creality is calling it these days). This is basically a Voron trident built with 2040 v-slot extrusions and a bunch of compromises. Proceed at your own risk.
+I wanted to take 2 old Ender 3 printers and make a trident (this is based off of the OG Ender 3 not the pro, v2, v3, neo s1 plus or whatever Creality is calling it these days). This is basically a Voron trident built with 2040 v-slot extrusions and a bunch of compromises. Proceed at your own risk.
 
 ![2plus2ender3dent JPG](/Gallery/2_plus_2_ender3dent.jpg "2plus2ender3dent JPG")
-![TwoEnder3dent Render JPG](/Gallery/2_ender3dent.jpg "TwoEnder3dent Render JPG")
 
 ## Goals
 
 * Re-use as many parts from 2 Ender 3's to build a Voron Trident
-* Rigid all metal frame (no printed frame extensions like the Ender 3 NG)
+* Rigid all metal frame (no printed frame extensions like the [Ender3 NG](https://www.printables.com/model/922401-ender-3-ng-v12-corexy-conversion))
 * Easily enclosable (no top hats or weird panel shapes)
 * Use the trident style gantry and Z axis
 
@@ -28,7 +27,7 @@ You probably shouldn't. A new trident frame is cheap, Ender frames are too small
 Oh, wait you're still reading? Ok guess you actually want to build this abomination.
 
 You'll need:
-* 2x Ender 3 printers (this is based off of the OG Ender 3 not the pro v2, 3, neopro or whatever creality is calling it these days)
+* 2x Ender 3 printers (OG Ender 3 not the pro, v2, v3, etc.)
 * 4x 530mm 2040
 * 2x 400mm 2040
 * 6x MGN12H Linear Rails (Sizes TBD)
